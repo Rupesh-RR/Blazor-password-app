@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "2HZKiREoOhIQzdKS0G9Cwg/zQtUBsdVsab3K0QmGAn0=",
+  "Source": "BlazorApp5",
+  "BasePath": "_content/BlazorApp5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorApp5\\wwwroot",
+      "Source": "BlazorApp5",
+      "ContentRoot": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\wwwroot\\",
+      "BasePath": "_content/BlazorApp5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp5.styles.css",
+      "SourceId": "BlazorApp5",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorApp5",
+      "RelativePath": "BlazorApp5.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp5.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp5.bundle.scp.css",
+      "SourceId": "BlazorApp5",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorApp5",
+      "RelativePath": "BlazorApp5.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorApp5.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\wwwroot\\app.css",
+      "SourceId": "BlazorApp5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\acer\\source\\repos\\BlazorApp5\\wwwroot\\",
+      "BasePath": "_content/BlazorApp5",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
